@@ -1,0 +1,11 @@
+node_modules
+.git
+.env
+.env.*
+docs
+tests
+infrastructure
+docker-compose.yml
+backend/prisma/local-db.json
+*.log
+coverage
